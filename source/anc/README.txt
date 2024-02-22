@@ -1,4 +1,4 @@
-To generate the figures in the "anc" folder by calling the shell scripts
+Generate figures in the "anc" folder by calling the shell scripts
 
 sh ./sf_m1_g0.06_lam4_T0.5.sh
 sh ./sf_m1_g0.06_lam4_T1.sh
